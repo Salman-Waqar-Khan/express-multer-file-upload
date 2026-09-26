@@ -1,0 +1,16 @@
+{
+  "name": "express-multer-file-upload",
+  "version": "1.0.0",
+  "description": "A simple file upload API built with Express and Multer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["express", "multer", "file-upload"],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  }
+}
